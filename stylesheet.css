@@ -1,0 +1,15 @@
+form {
+  margin-top: 10px;
+}
+
+h1 {
+  margin-left: 0 auto;
+}
+
+.card-body {
+  text-align: center;
+}
+.card {
+  display: block;
+  padding: 15px;
+}
